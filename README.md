@@ -1,4 +1,5 @@
-This README is done by Gemini, because I'm a bit lazy :')
+DISCLAIMER: This README is a bit poor, it's done by Gemini just to have something, 
+I promise I will review it when I'll have some time!
 
 # Data Analyst Job Market Analysis
 
